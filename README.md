@@ -2,7 +2,7 @@
 <h1 align="center">I'm Dung Ngo</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dungngo4520&label=Profile%20views&color=0e75b6&style=flat" alt="dungngo4520" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dungngo4520&label=Profile%20views&color=57bcda&style=flat-square" alt="dungngo4520" /> </p>
 
 <h2 align="left">About me</h2>
 
@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Flutter related projects**
 
-- 🤝 I’m looking for help with **anything I am learning**
+- 🤝 I’m looking for help with **anything I'm learning**
 
-- 💬 Ask me about **JavaScript, ReactJS,**
+- 💬 Ask me about **anything I've learned**
 
 - 📫 How to reach me **dungngo4520@gmail.com**
 
